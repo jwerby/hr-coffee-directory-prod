@@ -1,6 +1,6 @@
-import { CoffeeDirectory } from '@/components/directory/CoffeeDirectory'
+import { CoffeeDirectory } from '@/components/CoffeeDirectory'
 
-export default function Page() {
+export default function Home() {
   return (
     <main className="min-h-screen bg-gray-50">
       <CoffeeDirectory />
